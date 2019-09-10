@@ -8,7 +8,7 @@
     <title>First Project</title>
 </head>
 <body>
-    <h2>Login Page</h2>
+    <h2>Login Page!</h2>
    <!--<a href="index.php"><br/><br/>-->
     <form action="loginHandler.php" method="POST" action = "">
     Email:<input type="text" name="email" required="required"/><br/>
